@@ -1,2 +1,4 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# About Me
+
+I am Siti Nurizzah
+I am not techy
